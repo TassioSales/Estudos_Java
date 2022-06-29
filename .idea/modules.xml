@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Estudos_Java.iml" filepath="$PROJECT_DIR$/.idea/Estudos_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWord/HelloWord.iml" filepath="$PROJECT_DIR$/HelloWord/HelloWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OlaMundo/OlaMundo.iml" filepath="$PROJECT_DIR$/OlaMundo/OlaMundo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OperadoresAritimeticos/OperadoresAritimeticos.iml" filepath="$PROJECT_DIR$/OperadoresAritimeticos/OperadoresAritimeticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/argumentos/argumentos.iml" filepath="$PROJECT_DIR$/argumentos/argumentos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/exercicios.iml" filepath="$PROJECT_DIR$/exercicios/exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lendoDadosTeclado/lendoDadosTeclado.iml" filepath="$PROJECT_DIR$/lendoDadosTeclado/lendoDadosTeclado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variaveis/variaveis.iml" filepath="$PROJECT_DIR$/variaveis/variaveis.iml" />
+    </modules>
+  </component>
+</project>
