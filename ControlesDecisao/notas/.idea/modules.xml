@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SwithCase.iml" filepath="$PROJECT_DIR$/SwithCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notas.iml" filepath="$PROJECT_DIR$/notas.iml" />
     </modules>
   </component>
 </project>
